@@ -160,3 +160,11 @@ Received Import Request.
 Start importing Assets/Scenes/MrA.unity using Guid(72929f6b2ac5a36499550967984753f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b67faa99cf5c0f485feab576ea9c11') in 0.006072 seconds 
   Import took 0.009186 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 50.717316 seconds.
+  path: Assets/Scenes/HenryOwen.unity
+  artifactKey: Guid(7c969fa9f1f896542b48993474ac3e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/HenryOwen.unity using Guid(7c969fa9f1f896542b48993474ac3e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ad962c2953f31c84b0eaf28a1ba6407') in 0.005814 seconds 
+  Import took 0.008706 seconds .
+

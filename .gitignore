@@ -36,3 +36,4 @@ sysinfo.txt
 *.apk
 *.unitypackage
 DesktopTestProj/UserSettings/EditorUserSettings.asset
+DesktopTestProj/Logs/AssetImportWorker0.log
